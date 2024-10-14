@@ -1,1 +1,1 @@
-se me olvida hacer captura del commit de .attributes
+se me olvido hacer captura del commit de .attributes
